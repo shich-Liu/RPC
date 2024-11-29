@@ -82,13 +82,13 @@ Zookeeper 实现服务器节点创建与监听，最终实现高性能、轻量�
 ![Markdown](https://s1.ax1x.com/2018/07/06/PZK3SP.png)
 
 ### 结果
-- **一万次调用结果**
+- **一万次调用：5s**
 ![1w](https://github.com/user-attachments/assets/4c2e8465-fc42-4888-949b-6d8a09367192)
 
-- **十万次调用结果**
+- **十万次调用：27s**
 ![10w](https://github.com/user-attachments/assets/b073c7b0-6590-443c-94ef-1421af962944)
 
-- **一百万次调用结果**
+- **一百万次调用：173s**
 ![100w](https://github.com/user-attachments/assets/2f064731-4b9c-4845-93bd-455ca1ea121d)
 
 
